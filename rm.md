@@ -50,3 +50,7 @@ Coppy 2 lệnh íntall chạy trong tẻminal
 <img width="512" height="486" alt="image" src="https://github.com/user-attachments/assets/5f5006ec-c094-4f4f-9079-603e91644fef" />
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/06da9881-d292-482e-abc8-97f29c8abc12" />
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/ab559787-86d7-4b04-b3b8-5197189d2c68" />
+
+public tên miền thành công 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9485f52c-425b-45d1-8c71-a4cbf233a060" />
+
