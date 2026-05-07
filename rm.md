@@ -26,6 +26,9 @@ Hướng dẫn:
 - AI sẽ nói cần thêm file requirements.txt để cài các thư viện cho python (cài qua lệnh pip) => tạo file requirements.txt với nội dung tưng ứng, trong file này cũng comment được => comment xem thư viện nào dùng để làm gì
 - Sau mỗi lần sửa đỏi có thể phải chạy lệnh dạng : **docker compose exec TÊN_SERVICE_DJANGO_CỦA_BẠN python manage.py migrate** để tác động vào django (còn nhiều lệnh khác chứ ko luôn như này), để django thay đổi csdl hoặc thay đổi cấu hình.
 
+## TỔ CHỨC CSDL CHO HỆ THỐNG QUẢN LÝ TIỆM CẦM ĐỒ
+<img width="1920" height="2560" alt="image" src="https://github.com/user-attachments/assets/6656dd6a-825e-4d15-9085-0547737bf366" />
+
 ## CHUẨN BỊ MÔI TRƯỜNG DOCKER
 Tạo một thư mục mới cho dự án mkdir pawn_shop && cd pawn_shop
 Tạo file requirements.txt
